@@ -1,1 +1,1 @@
-[Протокол SSL/TLS, сертификаты и др](tls-x509-etc.pdf) [youtube](https://www.youtube.com/watch?v=SgGKwjeT4QA)
+[п÷я─п╬я┌п╬п╨п╬п╩ SSL/TLS, я│п╣я─я┌п╦я└п╦п╨п╟я┌я▀ п╦ п╢я─](tls-x509-etc.pdf) [youtube](https://www.youtube.com/watch?v=SgGKwjeT4QA)
